@@ -35,4 +35,6 @@ def dice_roll:
 
 button = tk.Button(window,text = "ROLL", bg = "black", fg = "green", font = "Times 20 Roman", command =dice_roll)
 button.place(x=200,y =0)
+
+
 window.mainloop()
